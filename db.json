@@ -1,8 +1,11 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "John",
+      "age": 30,
+      "isAdmin": false,
+      "courses": ["html", "css", "js"],
+      "wife": null
     }
   ],
   "profile": {
